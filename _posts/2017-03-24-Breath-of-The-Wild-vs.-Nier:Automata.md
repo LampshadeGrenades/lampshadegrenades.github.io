@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Thinny 2: a Jekyll theme"
-quote: "The Infinite's Nymphet has a new look, a new codename, and a new platform!"
+title: "Breath of the Wild vs. Nier:Automata"
+quote: "How two open world games differ so vastly."
 image: false
 video: false
 comments: true
