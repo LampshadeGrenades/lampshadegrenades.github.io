@@ -11,7 +11,7 @@ tagline:	'Lampshade Grenades'
 description:	'A meta commentary on the meta state of video games and anime.'
 url:		https://www.lampshadegrenades.github.io/
 commentsystem:	google
-disqus:		camporez
+disqus:		
 
 author:
   name:		'Joey Wu + Joseph Pham'
